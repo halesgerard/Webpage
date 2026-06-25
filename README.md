@@ -20,5 +20,6 @@ This site showcases 9+ years of BI & data development experience across banking,
 📧 hales.gerard@gmail.com  
 🔗 [linkedin.com/in/gerard-hales](https://pl.linkedin.com/in/gerard-hales)
 
+
 ---
 *© 2026 Gerard Hales · Elite BI Solutions. All rights reserved.*
