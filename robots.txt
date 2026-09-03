@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://halesgerard.github.io/Webpage/sitemap.xml
