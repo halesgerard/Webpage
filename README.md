@@ -2,7 +2,7 @@
 
 Personal portfolio website for Gerard Hales, Business Intelligence Developer at UBS and founder of Elite BI Solutions.
 
-Live at: [halesgerard.github.io](https://halesgerard.github.io)
+Live at: [halesgerard.github.io/Webpage](https://halesgerard.github.io/Webpage/)
 
 ## About
 
